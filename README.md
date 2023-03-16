@@ -58,7 +58,6 @@ public class Program : MonoBehaviour
 }
 ```
 ## Output:
-### Before 
 ![op](a1.png)
 ![op](a3.png)
 ## Result:
